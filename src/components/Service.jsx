@@ -15,7 +15,7 @@ infiniteLoop
 autoPlay
 showStatus={false}
 showArrows={false}
-interval={1000}
+interval={1700}
 showThumbs={false}
 showIndicators={false}
 >
